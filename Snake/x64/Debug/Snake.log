@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  main.cpp
+C:\Users\余柏村\Desktop\Snake\Snake\main.cpp(87,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Snake.vcxproj -> C:\Users\余柏村\Desktop\Snake\x64\Debug\Snake.exe
